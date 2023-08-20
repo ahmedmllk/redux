@@ -1,0 +1,29 @@
+.App{
+    text-align: center;
+}
+.card{
+    width: 60%;
+    margin: 0 auto;
+    background-color: darkcyan;
+}
+.card h1{
+    font-size: 100px;
+    font-weight: 400;
+    color: azure;
+}
+.cardlist input{
+    font-size: 50px;
+}
+.cardlist button{
+    font-size: 50px;
+}
+.cardlist{
+    margin-top: 7vh;
+}
+.line{
+    text-decoration: line-through;
+}
+.sth{
+    display: flex;
+    justify-content: space-between;
+}
